@@ -37,7 +37,7 @@ To install, configure, and run the project, follow these steps:
 
 bash
 Clone the repository
-git clone https://github.com/prafulshengaye/MasaischoolProject
+git clone https://github.com/prafulshengaye/Expense-Tracking--JavaScript-Project
 
  Navigate to the project directory
 cd expense-tracker/backend
